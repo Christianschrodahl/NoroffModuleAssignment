@@ -1,3 +1,0 @@
-# NoroffModuleAssignment
-
-heisann
